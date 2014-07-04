@@ -1,6 +1,6 @@
 {
   "name": "grunting_away_part_1",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "this little project is to help understand grunt and package managers. I hope to figure how to scaffold my projects, version it, collaborate with it, and run all kinds of automated tasks.",
   "main": "app.js",
   "scripts": {
